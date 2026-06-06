@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zeineddin Zidan</h1>
-<h3 align="center">A passionate Computer engineer.</h3>
+<h3 align="center">Computer Engineering student @ TED University · Java · DSA · Design Patterns</h3>
 
-- 🌱 I’m currently learning **HTML, JS**
+- 🌱 I’m currently expanding into **web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zaldin474](https://github.com/zaldin474)
+- 👨‍💻 All of my projects are available at [https://zaldin474.github.io](https://zaldin474.github.io)
 
-- ⚡ Fun fact **I do leather work**
+- ⚡ Fun fact: **I'm into leathercraft.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
